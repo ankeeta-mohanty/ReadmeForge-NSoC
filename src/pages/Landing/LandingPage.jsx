@@ -42,9 +42,9 @@ export default function LandingPage() {
       />
       <Navbar />
 
-      <div className="hero-wrapper" style={{ paddingTop: 64 }}>
+      <div className="hero-wrapper" style={{ paddingTop: 72 }}>
         <main className="hero-content">
-          <h1 className="hero-title">GitHub<br />Readme.Md<br />maker</h1>
+          <h1 className="hero-title">GitHub<br /> README.md<br /> Maker</h1>
         </main>
 
         <div className="css-asterisk">
